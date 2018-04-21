@@ -11,4 +11,4 @@ CREATE DATABASE "ExaServiciosIT"
        LC_COLLATE='Spanish_Spain.1252'
        LC_CTYPE='Spanish_Spain.1252'
        CONNECTION LIMIT=-1
-       TABLESPACE="ExaServiciosIT_Tablespaceg";
+       TABLESPACE="ExaServiciosIT_Tablespace";
